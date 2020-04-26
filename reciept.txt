@@ -1,0 +1,6 @@
+
+  Subtotal: $18
+Tip amount: $10
+     TOTAL: $29.125
+
+Payment Type: Cash
